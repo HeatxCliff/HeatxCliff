@@ -74,6 +74,13 @@ Built a regional sales analytics dashboard tracking **profit margin and average 
 
 ---
 
+### 🕹️ [VCT Masters Toronto 2025 – Esports Analytics](https://github.com/HeatxCliff/Masters_Toronto_2025)
+> Power BI · DAX · Esports Data · Data Storytelling
+
+A passion project combining competitive Valorant and data analytics. Sourced, cleaned, and visualized real tournament data to uncover what drove team and player performance — clutch rates, map win rates, player consistency, and more — across a fully interactive Power BI dashboard.
+
+---
+
 ### 🔐 [Lab Authentication System — Raspberry Pi & RFID](https://github.com/HeatxCliff/lab-auth-system)
 > Python · Raspberry Pi · MariaDB · HTML/CSS/JS · Published Research
 
